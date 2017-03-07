@@ -12,10 +12,10 @@ I have to write a Broker to bridge client and service provider, I want log what 
 
 Project Introduction
 
-##WCFServiceObject to store object to be referenced by service provider, broker and the client
+	*WCFServiceObject to store object to be referenced by service provider, broker and the client
 
-##WCFService1: The service provider
+	*WCFService1: The service provider
 
-##WCFService2: The Broker
+	*WCFService2: The Broker
 
-##WCFService2Controller: The Broker controller logic, which Castle Dynamic Proxy is applied here to do the trick. 
+	*WCFService2Controller: The Broker controller logic, which Castle Dynamic Proxy is applied here to do the trick. 
